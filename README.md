@@ -68,20 +68,6 @@
 </p>
 </details>
 
-<details> 
-  <summary><H3>👯 Integrantes:</b></summary></H3>
-  <ul>
-    <li>Acosta, Nadia Yanella </li>
-    <li>Dealbera Etchechoury, Giuliana</li>
-    <li>Diaz Luna, Giuliana Paola</li>
-    <li>Nolan, Juan Pablo</li>
-    <li>Rodriguez Saquilan, Miguel</li>
-    <li>Quiquinto, Romina Ayelen</li>
-    <li>Quispe, Marcelo Alejandro</li>
-    <li>Segovia, Jorge Nicolas</li>
-  </ul>
-</details>
-
 <br>
 
 ---
