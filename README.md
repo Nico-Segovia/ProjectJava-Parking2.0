@@ -60,7 +60,14 @@
   <H4>Segunda etapa "Migración de paradigma (a POO)". ✓</H4>
   <ul>
   <li>Aplicar mejoras. ✓</li>
-  <li>Realizar correcciones ✓</li>
+  <li>Realizar correcciones. ✓</li>
+  </ul>
+  
+  <H4>Tercera etapa "BD - MVC". </H4>
+  <ul>
+  <li>Agregar Base de Datos. </li>
+  <li>MVC </li>
+  <li>Agregar Log. </li>
   </ul>
   
   <p align="center">
