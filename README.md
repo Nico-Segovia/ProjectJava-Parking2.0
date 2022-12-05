@@ -1,5 +1,4 @@
-<h1 align="center"> The Informatic Hamsters 🐹</h1>
-<h3 align="center"> Parking 2.0 </h3>
+<h1 align="center"> Parking 2.0</h1>
 
 <p align="center">Migración del Proyecto de Parking 1.0 a 2.0. De tecnología PSeInt a Java, y de paradigma Orientada a procedimiento a POO</p>
   
