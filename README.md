@@ -66,7 +66,7 @@
   <H4>Futura migración "Proyecto 3.0". </H4>
   <ul>
   <li>Migración a .NET con C#. </li>
-  <li>Base de Datos Relacional</li>
+  <li>Base de Datos Relacional. </li>
   <li>WPF. </li>
   <li>MVC. </li>
   <li>Agregar Log. </li>
