@@ -63,10 +63,12 @@
   <li>Realizar correcciones. ✓</li>
   </ul>
   
-  <H4>Tercera etapa "BD - MVC". </H4>
+  <H4>Futura migración "Proyecto 3.0". </H4>
   <ul>
-  <li>Agregar Base de Datos. </li>
-  <li>MVC </li>
+  <li>Migración a .NET con C#. </li>
+  <li>Base de Datos Relacional</li>
+  <li>WPF. </li>
+  <li>MVC. </li>
   <li>Agregar Log. </li>
   </ul>
   
