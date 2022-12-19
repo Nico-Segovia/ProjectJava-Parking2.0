@@ -62,8 +62,8 @@
   <li>Aplicar mejoras. ✓</li>
   <li>Realizar correcciones. ✓</li>
   </ul>
-  
-  <H4>Futura migración "Proyecto 3.0". </H4>
+  https://github.com/Nico-Segovia/ProjectCSharp-Parking3.0
+  <H4>Futura migración <a href="https://github.com/Nico-Segovia/ProjectCSharp-Parking3.0" target="new">**"Proyecto 3.0"**.</a></H4>
   <ul>
   <li>Migración a .NET con C#. </li>
   <li>Base de Datos Relacional. </li>
@@ -82,3 +82,6 @@
 ---
 
 <b>Proyecto anterior (PSeInt): <a href="https://github.com/Nico-Segovia/ProjectPSeInt-Parking1.0" target="_blank">**Parking 1.0**</a></b>
+
+<b>Última versión (C#): <a href="https://github.com/Nico-Segovia/ProjectCSharp-Parking3.0" target="_blank">**Parking 3.0**</a> (EN PROGRESO)</b>
+
