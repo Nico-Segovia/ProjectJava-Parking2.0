@@ -62,8 +62,8 @@
   <li>Aplicar mejoras. ✓</li>
   <li>Realizar correcciones. ✓</li>
   </ul>
-  https://github.com/Nico-Segovia/ProjectCSharp-Parking3.0
-  <H4>Futura migración <a href="https://github.com/Nico-Segovia/ProjectCSharp-Parking3.0" target="new">**"Proyecto 3.0"**.</a></H4>
+
+  <H4>Tercera etapa "Futura migración" en <a href="https://github.com/Nico-Segovia/ProjectCSharp-Parking3.0" target="new">Proyecto 3.0</a>.</H4>
   <ul>
   <li>Migración a .NET con C#. </li>
   <li>Base de Datos Relacional. </li>
